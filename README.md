@@ -40,7 +40,7 @@ Each generated dataset includes:
 
 ```
 ├── DataCollect&Preprocess.ipynb  # Data collection and preprocessing notebook
-├── Datasets/                     # Place prepared CSV files here (not included)
+├── Datasets/                     # Datasets folder
 ├── Model/
 │   ├── requirements.txt
 │   └── ATTCNN-CGAN/              # Proposed model
