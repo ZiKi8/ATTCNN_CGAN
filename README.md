@@ -32,7 +32,7 @@ Each generated dataset includes:
 - **Price and volume data:** Open, High, Low, Close, Volume
 - **Technical indicators:** SMA, EMA, RSI, ATR, MACD, Bollinger Bands, RSV
 - **Frequency-domain features:** Fourier components
-- **Attention features:** Derived through temporal attention modules
+- **Attention features:** Derived dual-average attention module
 
 ---
 
