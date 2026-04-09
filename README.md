@@ -9,7 +9,7 @@
 This repository implements **ATTCNN_CGAN**, a deep learning framework that integrates Convolutional Neural Networks (CNNs), dual-average attention, and conditional Generative Adversarial Networks (cGANs) for stock market time-series forecasting.
 
 Repository: https://github.com/ZiKi8/ATTCNN_CGAN  
-DOI: []
+//DOI: []
 
 ---
 
