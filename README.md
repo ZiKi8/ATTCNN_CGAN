@@ -15,7 +15,7 @@ DOI: []
 
 ## Dataset Information
 
-The historical stock datasets are not included in this repository but can be generated using the provided `DataCollect&Preprocess.ipynb` notebook. Run this notebook first before training the model — it will automatically collect and preprocess data for the following stocks and save the CSV files to the `Datasets/` directory:
+The historical stock datasets are not included in this repository but can be generated using the provided `DataCollect&Preprocess.ipynb` notebook. Run this notebook first before training the model. it can collect and preprocess data for the following stocks and save the CSV files to the `Datasets/` directory:
 
 - AAPL
 - META
